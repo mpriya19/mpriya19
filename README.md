@@ -50,8 +50,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 
 ## 💼 Work Experience
 **💻 Evergreen (Insight Global)** | Dallas, TX, United States<br>
-**Data Engineer Intern** | January 2025 - April 2025  
-- Developed a data pipeline integrating AWS S3 and Snowflake, enabling efficient data processing to support retail sales analytics.
+**Data Engineer Intern** | January 2025 - April 2025 - Developed a data pipeline integrating AWS S3 and Snowflake, enabling efficient data processing to support retail sales analytics.
 - Implemented Change Data Capture (CDC) mechanism, ensuring real-time data availability for optimizing promotional performance.
 - Automated CI/CD workflows with GitHub Actions, improving deployment efficiency and enabling faster delivery of data to BI teams.
 
