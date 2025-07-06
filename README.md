@@ -96,7 +96,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 📖 Ongoing Learning: Snowflake SnowPro® Core  
   
 **Awards**  
-  ⭐ **Shared Success Catalyst**: Recognized with Accenture’s prestigious ACE (Accenture Celebrates Excellence) Award for driving impactful collaborations across teams, clients, and communities - delivering exceptional value while fostering a culture of innovation and teamwork.  
+  ⭐ **Shared Success Catalyst**: Recognized with Accenture’s elite ACE (Accenture Celebrates Excellence) Award for driving impactful collaborations across teams, clients, and communities - delivering exceptional value while fostering a culture of innovation and teamwork.  
   
 ---
 
