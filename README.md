@@ -47,7 +47,7 @@ I specialize in **data engineering, analytics and business intelligence solution
 
 ## 💼 Work Experience  
 
-### 🏢 Evergreen (Insight Global) | Dallas, TX, United States
+### Evergreen (Insight Global) | Dallas, TX, United States
 <div style="display: flex; justify-content: space-between;">
   💻 <strong>Data Engineer Intern</strong>
   <span> | January 2025 - April 2025</span>
@@ -58,10 +58,10 @@ I specialize in **data engineering, analytics and business intelligence solution
   <li>Automated CI/CD workflows with GitHub Actions, improving deployment efficiency.</li>
 </ul>
 
-### 🏢 Accenture | Pune, MH, India
+### Accenture | Pune, MH, India
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
   💻 <strong>Business Intelligence Analyst</strong>
-  <span>📅 November 2021 - July 2022</span>
+  <span> | November 2021 - July 2022</span>
 </div>
 <ul>
   <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
@@ -69,17 +69,17 @@ I specialize in **data engineering, analytics and business intelligence solution
 </ul>
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
   💻 <strong>Data Engineer</strong>
-  <span>📅 November 2019 - October 2021</span>
+  <span> | November 2019 - October 2021</span>
 </div>
 <ul>
   <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
   <li>Developed optimized SQL queries ensuring continuity in enterprise reporting.</li>
 </ul>
 
-### 🏢 Zensar Technologies | Pune, MH, India
+### Zensar Technologies | Pune, MH, India
 <div style="display: flex; justify-content: space-between;">
   💻 <strong>Data Analyst Intern</strong>
-  <span>📅 April 2018 - July 2018</span>
+  <span> | April 2018 - July 2018</span>
 </div>
 <ul>
   <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
