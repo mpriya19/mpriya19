@@ -55,7 +55,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 </div>
 <ul>
   <li>Developed a data pipeline integrating AWS S3 and Snowflake, enabling efficient data processing to support retail sales analytics.</li>
-  <li>Implemented Change Data Capture (CDC) mechanism, ensuring real-time data availability for promotional performance reporting.</li>
+  <li>Implemented Change Data Capture (CDC) mechanism, ensuring real-time data availability for optimizing promotional performance.</li>
   <li>Automated CI/CD workflows with GitHub Actions, improving deployment efficiency and enabling faster delivery of data to BI teams.</li>
 </ul>
 
