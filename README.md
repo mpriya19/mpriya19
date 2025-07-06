@@ -47,25 +47,44 @@ I specialize in **data engineering, analytics and business intelligence solution
 
 ## 💼 Work Experience  
 
-### 🏢 Evergreen (Insight Global) <span align="right">Dallas, TX, United States
-💻 **Data Engineer Intern <span align="right">📅 January 2025 - April 2025**
-- Developed data pipelines streamlining the ingestion of raw data from AWS S3 into Snowflake.
-- Implemented Change Data Capture (CDC) solutions to enable near real-time data processing.
-- Automated CI/CD workflows with GitHub Actions, improving deployment efficiency.
+### 🏢 Evergreen (Insight Global) | Dallas, TX, United States
+<div style="display: flex; justify-content: space-between;">
+  💻 <strong>Data Engineer Intern</strong>
+  <span>📅 January 2025 - April 2025</span>
+</div>
+<ul>
+  <li>Developed data pipelines streamlining the ingestion of raw data from AWS S3 into Snowflake.</li>
+  <li>Implemented Change Data Capture (CDC) solutions to enable near real-time data processing.</li>
+  <li>Automated CI/CD workflows with GitHub Actions, improving deployment efficiency.</li>
+</ul>
 
-### 🏢 Accenture <span align="right">Pune, MH, India
-#### 💻 Business Intelligence Analyst <span align="right">📅 November 2021 - July 2022
-- Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.
-- Developed optimized SQL queries ensuring continuity in enterprise reporting.
-#### 💻 Data Engineer <span align="right">📅 November 2019 - October 2021
-- Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.
-- Developed optimized SQL queries ensuring continuity in enterprise reporting.
+### 🏢 Accenture | Pune, MH, India
+<div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
+  💻 <strong>Business Intelligence Analyst</strong>
+  <span>📅 November 2021 - July 2022</span>
+</div>
+<ul>
+  <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
+  <li>Developed optimized SQL queries ensuring continuity in enterprise reporting.</li>
+</ul>
+<div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
+  💻 <strong>Data Engineer</strong>
+  <span>📅 November 2019 - October 2021</span>
+</div>
+<ul>
+  <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
+  <li>Developed optimized SQL queries ensuring continuity in enterprise reporting.</li>
+</ul>
 
-### 🏢 Zensar Technologies <span align="right">Pune, MH, India
-💻 **Data Analyst Intern <span align="right">📅 April 2018 - July 2018**
-- Developed data pipelines streamlining the ingestion of raw data from AWS S3 into Snowflake.
-- Implemented Change Data Capture (CDC) solutions to enable near real-time data processing.
-- Automated CI/CD workflows with GitHub Actions, improving deployment efficiency.  
+### 🏢 Zensar Technologies | Pune, MH, India
+<div style="display: flex; justify-content: space-between;">
+  💻 <strong>Data Analyst Intern</strong>
+  <span>📅 April 2018 - July 2018</span>
+</div>
+<ul>
+  <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
+  <li>Developed optimized SQL queries ensuring continuity in enterprise reporting.</li>
+</ul>    
 
 ---
 
