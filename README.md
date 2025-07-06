@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center"> 🚀 About Me</h1>
+<h3 align="center"> 🚀 About Me</h3>
 
 I specialize in **data engineering, analytics, and business intelligence solutions** to optimize data-driven decision-making. Passionate about transforming raw data into valuable insights, I enjoy working with **ETL pipelines, data warehousing, and BI tools**.
 
