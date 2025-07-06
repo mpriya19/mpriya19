@@ -4,7 +4,16 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=007ACC&center=true&width=435&lines=Data+Engineer;Data+Analyst;Business+Intelligence+Enthusiast" />
-</p>  
+</p>
+
+<p align="left">  
+  <a href="mailto:priyamedankar19@gmail.com" style="margin-right: 15px;">  
+    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail"/>  
+  </a> 
+  <a href="https://linkedin.com/in/mepriya">  
+    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"/>  
+  </a>  
+</p>
 
 ## 🙋🏻‍♀️ About Me
 
@@ -15,15 +24,6 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 🏢 **Previously Worked at**: Accenture, Evergreen (Insight Global), Zensar Technologies    
 🧩 **Key Skills**: SQL, Python, Snowflake, AWS, Tableau, Power BI  
 🎯 **Interests**: Data Engineering & Analytics, Business Intelligence  
-
-<p align="left">  
-  <a href="mailto:priyamedankar19@gmail.com" style="margin-right: 15px;">  
-    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail"/>  
-  </a> 
-  <a href="https://linkedin.com/in/mepriya">  
-    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"/>  
-  </a>  
-</p>   
 
 ---
 
