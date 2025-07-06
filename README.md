@@ -8,10 +8,7 @@
 
 ---
 
-## 🚀 About Me  
-
-**Data Engineer | Data Analyst | Driving Business Intelligence Solutions**  
-Dallas, Texas | 📩 priyamedankar19@gmail.com | [LinkedIn](https://linkedin.com/in/mepriya)  
+<h1 align="center">## 🚀 About Me</h1>
 
 I specialize in **data engineering, analytics, and business intelligence solutions** to optimize data-driven decision-making. Passionate about transforming raw data into valuable insights, I enjoy working with **ETL pipelines, data warehousing, and BI tools**.
 
