@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=007ACC&center=true&width=435&lines=Data+Engineer;Data+Analyst;Business+Intelligence+Enthusiast" />
 </p>  
----  
 
 ## About Me
 
