@@ -102,4 +102,4 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
 
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/%7Bmpriya19%7D/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/%5Bmpriya19%5D/count.svg)
