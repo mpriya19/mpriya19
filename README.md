@@ -92,10 +92,10 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 ## 🏆 Achievements  
 
 ### Certifications
-  🏅 Power BI Data Analyst, Alteryx Designer - Core & Advanced, AWS Cloud Practitioner, Google Analytics (GA4)  
-  📖 Ongoing Learning: Snowflake SnowPro® Core  
+🏅 Power BI Data Analyst, Alteryx Designer - Core & Advanced, AWS Cloud Practitioner, Google Analytics (GA4)  
+📖 Ongoing Learning: Snowflake SnowPro® Core  
   
-### Awards  
+### Awards
   ⭐ **Shared Success Catalyst**: Recognized at Accenture for leading impactful collaborations across teams, clients, and communities - driving innovation, shared success, and embodying a culture of unity and excellence.  
   
 ---
