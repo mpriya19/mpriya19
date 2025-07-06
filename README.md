@@ -17,13 +17,12 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 🎯 **Interests**: Data Engineering & Analytics, Business Intelligence  
 <p>
   <a href="mailto:priyamedankar19@gmail.com">
-    <img src="https://img.icons8.com/color/25/gmail-new.png" alt="Gmail" />
+    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/mepriya" target="_blank">
-    <img src="https://img.icons8.com/color/25/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" />
   </a>
 </p>  
-
 ---
 
 ## 🛠️ My Tech Stack  
