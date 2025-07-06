@@ -51,7 +51,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 ## 💼 Work Experience  
 <div style="display: flex; justify-content: space-between;">
   <strong> Evergreen (Insight Global)</strong>
-  <span style="text-align: right;">Dallas, TX, United States</span>
+  <span style="margin-left: auto;">Dallas, TX, United States</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <strong>💻 Data Engineer Intern</strong>
