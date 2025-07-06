@@ -101,13 +101,8 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 📩 **Email**: priyamedankar19@gmail.com  
 📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
 
+👀 **Visitors Count**
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mpriya19&color=ff69b4&style=flat-square&label=Profile+Views" alt="Profile views counter"/>
   <h3>✨ Thanks for visiting! Let's connect and collaborate! ✨</h3>
 </div>
-
-👀 **Visitors Count**  
-<!-- ![VisitorCount](https://profile-counter.glitch.me/%7Bmpriya19%7D/count.svg) -->
-<p>
-  <img src="https://profile-counter.glitch.me/mpriya19/count.svg" alt="Visitor Count" />
-</p>
