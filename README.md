@@ -52,11 +52,11 @@ I specialize in **data engineering, analytics and business intelligence solution
   💻 <strong>Data Engineer Intern</strong>
   <span> | January 2025 - April 2025</span>
 </div>
-  <ul>
-      <li>Developed data pipelines streamlining the ingestion of raw data from AWS S3 into Snowflake.</li>
-      <li>Implemented Change Data Capture (CDC) solutions to enable near real-time data processing.</li>
-      <li>Automated CI/CD workflows with GitHub Actions, improving deployment efficiency.</li>
-  </ul>
+<ul>
+  <li>Developed data pipelines streamlining the ingestion of raw data from AWS S3 into Snowflake.</li>
+  <li>Implemented Change Data Capture (CDC) solutions to enable near real-time data processing.</li>
+  <li>Automated CI/CD workflows with GitHub Actions, improving deployment efficiency.</li>
+</ul>
 
 ### Accenture | Pune, MH, India
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
