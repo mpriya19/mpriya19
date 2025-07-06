@@ -106,5 +106,5 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=mpriya19&color=007ACC&style=flat-square&label=Visitor+Count" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=mpriya19&color=007ACC&style=flat-square&label=Profile+Views" alt="Profile views counter"/>
 </div>
