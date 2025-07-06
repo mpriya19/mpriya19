@@ -50,7 +50,7 @@ I specialize in **data engineering, analytics and business intelligence solution
 ### 🏢 Evergreen (Insight Global) | Dallas, TX, United States
 <div style="display: flex; justify-content: space-between;">
   💻 <strong>Data Engineer Intern</strong>
-  <span>January 2025 - April 2025</span>
+  <span> | January 2025 - April 2025</span>
 </div>
 <ul>
   <li>Developed data pipelines streamlining the ingestion of raw data from AWS S3 into Snowflake.</li>
