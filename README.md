@@ -15,14 +15,15 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 🏢 **Previously Worked at**: Accenture, Evergreen (Insight Global), Zensar Technologies    
 🧩 **Key Skills**: SQL, Python, Snowflake, AWS, Tableau, Power BI  
 🎯 **Interests**: Data Engineering & Analytics, Business Intelligence  
-<p>
-  <a href="mailto:priyamedankar19@gmail.com">
-    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" style="vertical-align:middle; margin-right:10px;"/>
-  </a>
-  <a href="https://linkedin.com/in/mepriya" target="_blank">
-    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" style="vertical-align:middle;"/>
-  </a>
-</p>  
+
+<p>  
+  <a href="mailto:priyamedankar19@gmail.com">  
+    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail"/>  
+  </a>  
+  <a href="https://linkedin.com/in/mepriya" target="_blank">  
+    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"/>  
+  </a>  
+</p>   
 
 ---
 
