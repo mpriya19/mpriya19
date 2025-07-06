@@ -99,10 +99,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 ## 📬 Connect With Me  
 
 📩 **Email**: priyamedankar19@gmail.com  
-📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)    
-
-
+📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
 
 👀 **Visitors Count**  
-
 ![VisitorCount](https://profile-counter.glitch.me/%7Bmpriya19%7D/count.svg)
