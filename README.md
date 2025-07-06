@@ -16,8 +16,11 @@ Dallas, Texas | 📩 priyamedankar19@gmail.com | [LinkedIn](https://linkedin.com
 I specialize in **data engineering, analytics, and business intelligence solutions** to optimize data-driven decision-making. Passionate about transforming raw data into valuable insights, I enjoy working with **ETL pipelines, data warehousing, and BI tools**.
 
 🎓 **Graduated**: MS in **Information and Technology Management** @ **UT Dallas** (Class of 2025)
+
 🏢 **Previously Worked at**: Accenture | Evergreen (Insight Global) | Zensar Technologies  
+
 🎯 **Interests**: Data Engineering & Analytics, Business Intelligence  
+
 📊 **Tech Stack**: SQL, Python, Snowflake, AWS, Tableau, Power BI  
 
 ---
