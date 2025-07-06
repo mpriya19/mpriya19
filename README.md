@@ -72,4 +72,4 @@ I specialize in **data engineering, analytics and business intelligence solution
 ## 📬 Connect With Me!  
 
 📩 **Email**: priyamedankar19@gmail.com  
-📌 **LinkedIn**: [linkedin.com/in/mugdha-sonare](https://linkedin.com/in/mepriya)  
+📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
