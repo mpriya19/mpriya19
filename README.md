@@ -71,8 +71,11 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
   <strong>Business Intelligence Analyst</strong>
   <span> | November 2021 - July 2022</span><br>
-  - Facilitated migration of Teradata workloads to Snowflake for largest U.S. telecom provider, enabling cost-efficient analytics.
-  - Engineered complex SQL queries to develop KPIs, ensuring continuity in enterprise reporting across business units.
+  <ul>
+    <li>Facilitated migration of Teradata workloads to Snowflake for largest U.S. telecom provider, enabling cost-efficient analytics.</li>
+    <li>Engineered complex SQL queries to develop KPIs, ensuring continuity in enterprise reporting across business units.</li>
+    <li>Implemented dimensional data modeling, enhancing dashboard performance for executive decision-making.</li>
+  </ul>
 </div>
 <ul>
   <li>Facilitated migration of Teradata workloads to Snowflake for largest U.S. telecom provider, enabling cost-efficient analytics.</li>
