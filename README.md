@@ -54,9 +54,9 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
   <span> | January 2025 - April 2025</span>
 </div>
 <ul>
-  <li>Developed data pipelines streamlining the ingestion of raw data from AWS S3 into Snowflake.</li>
-  <li>Implemented Change Data Capture (CDC) solutions to enable near real-time data processing.</li>
-  <li>Automated CI/CD workflows with GitHub Actions, improving deployment efficiency.</li>
+  <li>Developed a data pipeline integrating AWS S3 and Snowflake, enabling efficient data processing to support retail sales analytics.</li>
+  <li>Implemented Change Data Capture (CDC) mechanism, ensuring real-time data availability for promotional performance reporting.</li>
+  <li>Automated CI/CD workflows with GitHub Actions, improving deployment efficiency and enabling faster delivery of data to BI teams.</li>
 </ul>
 
 ### Accenture | Pune, MH, India
