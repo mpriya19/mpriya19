@@ -19,7 +19,9 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 <p>  
   <a href="mailto:priyamedankar19@gmail.com">  
     <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail"/>  
-  </a>  
+  </a> 
+</p>
+<p>
   <a href="https://linkedin.com/in/mepriya" target="_blank">  
     <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"/>  
   </a>  
