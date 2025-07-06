@@ -61,6 +61,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
   <li>Automated CI/CD workflows with GitHub Actions, improving deployment efficiency and enabling faster delivery of data to BI teams.</li>
 </ul>
 
+
 💻 **Accenture** | Pune, MH, India
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
   <strong>Business Intelligence Analyst</strong>
@@ -79,6 +80,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
   <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
   <li>Developed optimized SQL queries ensuring continuity in enterprise reporting.</li>
 </ul>
+
 
 💻 **Zensar Technologies** | Pune, MH, India
 <div style="display: flex; justify-content: space-between;">
