@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=007ACC&center=true&width=435&lines=Data+Engineer;Data+Analyst;Business+Intelligence+Enthusiast" />
 </p>
 
-## 🚀 About Me
+## About Me
 
 I specialize in **data engineering, analytics, and business intelligence solutions** to optimize data-driven decision-making. Passionate about transforming raw data into valuable insights, I enjoy working with **ETL pipelines, data warehousing, and BI tools**.
 
