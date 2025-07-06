@@ -65,8 +65,9 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
   <span> | November 2021 - July 2022</span>
 </div>
 <ul>
-  <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
-  <li>Developed optimized SQL queries ensuring continuity in enterprise reporting.</li>
+  <li>Facilitated BI strategy for migrating analytical workloads from Teradata to Snowflake for largest U.S. telecom provider, enabling scalable and cost-efficient analytics.</li>
+  <li>Engineered complex SQL queries to develop KPIs, ensuring continuity in enterprise reporting across business units.</li>
+  <li>Implemented dimensional data modeling, enhancing dashboard performance and enabling faster insights for executive decision-making.</li>
 </ul>
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
   💻 <strong>Data Engineer</strong>
