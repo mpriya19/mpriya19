@@ -20,7 +20,7 @@ I specialize in **data engineering, analytics and business intelligence solution
 ## 🏆 Certifications  
 
 - 🏅 Power BI Data Analyst, Alteryx Designer - Core & Advanced, AWS Cloud Practitioner, Google Analytics (GA4)  
-- 📜 Ongoing Learning: Snowflake SnowPro® Core  
+- 📖 Ongoing Learning: Snowflake SnowPro® Core  
 
 ---
 
