@@ -67,7 +67,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 <ul>
   <li>Facilitated migration of Teradata workloads to Snowflake for largest U.S. telecom provider, enabling cost-efficient analytics.</li>
   <li>Engineered complex SQL queries to develop KPIs, ensuring continuity in enterprise reporting across business units.</li>
-  <li>Implemented dimensional data modeling, enhancing dashboard performance and enabling faster insights for executive decision-making.</li>
+  <li>Implemented dimensional data modeling, enhancing dashboard performance for executive decision-making.</li>
 </ul>
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
   💻 <strong>Data Engineer</strong>
