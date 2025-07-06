@@ -61,7 +61,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
   <li>Developed a data pipeline integrating AWS S3 and Snowflake, enabling efficient data processing to support retail sales analytics.</li>
   <li>Implemented Change Data Capture (CDC) mechanism, ensuring real-time data availability for optimizing promotional performance.</li>
   <li>Automated CI/CD workflows with GitHub Actions, improving deployment efficiency and enabling faster delivery of data to BI teams.</li>
-</ul>
+</ul>  
 
 <div style="display: flex; justify-content: space-between;">
   <strong>💻 Accenture</strong>
