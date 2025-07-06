@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there! I'm Priya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=007ACC&center=true&width=435&lines=Data+Engineer;Data+Analyst;Business+Intelligence+Enthusiast;ETL+%7C+Cloud+%7C+Analytics;SQL+%7C+Python;AWS+%7C+Snowflake+%7C+Tableau" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=007ACC&center=true&width=435&lines=Data+Engineer;Data+Analyst;Business+Intelligence+Enthusiast" />
 </p>
 
 ---
