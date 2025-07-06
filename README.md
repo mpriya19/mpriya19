@@ -65,7 +65,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
   <span> | November 2021 - July 2022</span>
 </div>
 <ul>
-  <li>Facilitated migration of Teradata workloads to Snowflake for largest U.S. telecom provider, enabling scalable and cost-efficient analytics.</li>
+  <li>Facilitated migration of Teradata workloads to Snowflake for largest U.S. telecom provider, enabling cost-efficient analytics.</li>
   <li>Engineered complex SQL queries to develop KPIs, ensuring continuity in enterprise reporting across business units.</li>
   <li>Implemented dimensional data modeling, enhancing dashboard performance and enabling faster insights for executive decision-making.</li>
 </ul>
