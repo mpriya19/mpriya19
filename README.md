@@ -16,7 +16,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 🧩 **Key Skills**: SQL, Python, Snowflake, AWS, Tableau, Power BI  
 🎯 **Interests**: Data Engineering & Analytics, Business Intelligence  
 
-📬 Connect With Me  
+📬 **Connect With Me**  
 📩 **Email**: priyamedankar19@gmail.com  
 📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
 
