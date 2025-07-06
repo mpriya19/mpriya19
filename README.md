@@ -76,8 +76,9 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
   <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
   <li>Developed optimized SQL queries ensuring continuity in enterprise reporting.</li>
 </ul>
-<br><br>
-💻 **Zensar Technologies** | Pune, MH, India
+<br>
+
+**💻 Zensar Technologies** | Pune, MH, India
 <div style="display: flex; justify-content: space-between;">
   <strong>Data Analyst Intern</strong>
   <span> | April 2018 - July 2018</span>
