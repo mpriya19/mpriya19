@@ -13,7 +13,7 @@ I specialize in **data engineering, analytics and business intelligence solution
 🎓 **Graduated**: MS in **Information and Technology Management** @ **UT Dallas** (Class of 2025)  
 🏢 **Previously Worked at**: Accenture, Evergreen (Insight Global), Zensar Technologies  
 🎯 **Interests**: Data Engineering & Analytics, Business Intelligence  
-📊 **Key Skills**: SQL, Python, Snowflake, AWS, Tableau, Power BI  
+🧩 **Key Skills**: SQL, Python, Snowflake, AWS, Tableau, Power BI  
 
 ---
 
