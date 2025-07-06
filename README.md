@@ -13,14 +13,7 @@ I specialize in **data engineering, analytics and business intelligence solution
 🎓 **Graduated**: MS in **Information and Technology Management** @ **UT Dallas** (Class of 2025)  
 🏢 **Previously Worked at**: Accenture, Evergreen (Insight Global), Zensar Technologies  
 🎯 **Interests**: Data Engineering & Analytics, Business Intelligence  
-📊 **Tech Stack**: SQL, Python, Snowflake, AWS, Tableau, Power BI  
-
----
-
-## 🏆 Certifications  
-
-- 🏅 Power BI Data Analyst, Alteryx Designer - Core & Advanced, AWS Cloud Practitioner, Google Analytics (GA4)  
-- 📖 Ongoing Learning: Snowflake SnowPro® Core  
+📊 **Key Skills**: SQL, Python, Snowflake, AWS, Tableau, Power BI  
 
 ---
 
@@ -69,7 +62,14 @@ I specialize in **data engineering, analytics and business intelligence solution
 
 ---
 
+## 🏆 Certifications  
+
+- 🏅 Power BI Data Analyst, Alteryx Designer - Core & Advanced, AWS Cloud Practitioner, Google Analytics (GA4)  
+- 📖 Ongoing Learning: Snowflake SnowPro® Core  
+
+---
+
 ## 📬 Connect With Me!  
 
-**Email**: priyamedankar19@gmail.com  
-**LinkedIn**: [linkedin.com/in/mugdha-sonare](https://linkedin.com/in/mepriya)  
+📩 **Email**: priyamedankar19@gmail.com  
+📌 **LinkedIn**: [linkedin.com/in/mugdha-sonare](https://linkedin.com/in/mepriya)  
