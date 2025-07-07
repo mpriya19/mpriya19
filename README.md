@@ -81,21 +81,12 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
   <strong>Data Engineer</strong>
   <span> | November 2019 - October 2021</span>
   <ul>
-    <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
-    <li>Developed optimized SQL queries ensuring continuity in enterprise reporting.</li>
+    <li>Designed ETL pipelines using AWS Glue and DMS to modernize legacy infrastructure into S3 data lake for a global CPG company.</li>
+    <li>Automated data validation with AWS Lambda to ensure high-quality datasets for analytics and BI reporting.</li>
+    <li>Built interactive dashboards by integrating Tableau with Amazon Redshift and Athena, delivering actionable insights for business users across 20 regions.</li>
   </ul>
 </div>
-<br>
-
-**💻 Zensar Technologies** | Pune, MH, India
-<div style="display: flex; justify-content: space-between;">
-  <strong>Data Analyst Intern</strong>
-  <span> | April 2018 - July 2018</span>
-</div>
-<ul>
-  <li>Gathered reporting requirements and authored BRDs for OLAP migration from Teradata to Snowflake.</li>
-  <li>Developed optimized SQL queries ensuring continuity in enterprise reporting.</li>
-</ul>    
+<br>    
 
 ---
 
