@@ -99,7 +99,8 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
     <li>Developed Alteryx workflows to unify Salesforce CRM and SharePoint Excel data, streamlining data preparation and improving accessibility for sales insights.</li>
     <li>Implemented Change Data Capture (CDC) mechanism, ensuring real-time data availability for optimizing promotional performance.</li>
   </ul>
-</div>
+</div>  
+
 ---
 
 ## 🏆 Achievements  
