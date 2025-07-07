@@ -83,7 +83,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
   <ul>
     <li>Designed ETL pipelines using AWS Glue and DMS to modernize legacy infrastructure into S3 data lake for a global CPG company.</li>
     <li>Automated data validation with AWS Lambda to ensure high-quality datasets for analytics and BI reporting.</li>
-    <li>Built Tableau dashboards by integrating with Amazon Redshift and Athena, delivering actionable insights for business users across 20 regions.</li>
+    <li>Built Tableau dashboards by integrating with Redshift and Athena, delivering actionable insights for business users across 20 regions.</li>
   </ul>
 </div>
 <br>    
