@@ -120,7 +120,6 @@ Passionate about delivering meaningful insights, I enjoy working with **ETL/ELT 
 
 📩 **Email**: priyamedankar19@gmail.com  
 📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
-<br>
 
 ---
 
