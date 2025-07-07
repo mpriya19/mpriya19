@@ -121,10 +121,10 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 <img src="https://img.icons8.com/color/24/gmail-new.png" width="20" /> **Email**: priyamedankar19@gmail.com  
 📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
 
-<span style="display: inline-flex; align-items: center; gap: 4px;">
+<div style="display: inline-flex; align-items: center; gap: 5px;">
   <img src="https://img.icons8.com/color/24/gmail-new.png" width="20" />
   <a href="mailto:priyamedankar19@gmail.com">priyamedankar19@gmail.com</a>
-</span>
+</div>
 <br>
 <a href="https://www.linkedin.com/in/mepriya" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/>linkedin.com/in/mepriya</a>
 
