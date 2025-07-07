@@ -9,9 +9,9 @@
 ## 🙋🏻‍♀️ About Me
 
 I specialize in **data engineering, analytics and business intelligence solutions** to transform messy data into meaningful stories.  
-Passionate about delivering valuable insights, I enjoy working with **ETL/ELT pipelines, data warehousing and BI tools**, turning chaos into clarity, one dataset at a time.  
+Passionate about delivering meaningful insights, I enjoy working with **ETL/ELT pipelines, data warehousing and BI tools**, turning chaos into clarity, one dataset at a time.  
 
-🔍 Currently seeking full-time roles in **data engineering & analytics** where I can apply my skills and build solutions to drive business impact.  
+🔍 Currently seeking full-time roles where I can contribute to impactful data-driven solutions and grow with innovative teams.  
 🎓 **Graduated**: MS in **Information and Technology Management** @ **UT Dallas** (Class of 2025)  
 🏢 **Previously Worked at**: Accenture, Evergreen (Insight Global), Zensar Technologies    
 🧩 **Key Skills**: SQL, Python, Snowflake, AWS, Tableau, Power BI  
