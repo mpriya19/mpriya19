@@ -50,7 +50,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL pipeli
 
 ## 💼 Work Experience
 <div style="display: flex; justify-content: space-between;">
-  <strong>💻 Evergreen (Insight Global)</strong>
+  <strong>💻 Evergreen - Insight Global</strong>
   <span> | Dallas, TX, United States</span><br>  
 </div>
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
