@@ -120,6 +120,10 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 
 📩 **Email**: priyamedankar19@gmail.com  
 📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
+
+<a href="mailto:priyamedankar19@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="20" />priyamedankar19@gmail.com</a>
+<a href="https://www.linkedin.com/in/mepriya" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" />linkedin.com/in/mepriya</a>
+
 ##  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mpriya19&color=007ACC&style=flat-square&label=Profile+Views" alt="Profile views counter"/>
