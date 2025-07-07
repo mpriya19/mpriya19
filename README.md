@@ -96,7 +96,7 @@ Passionate about delivering valuable insights, I enjoy working with **ETL/ELT pi
   <strong>Data Analyst Intern</strong>
   <span> | April 2018 - July 2018</span>
   <ul>
-    <li>Developed Alteryx workflows to integrate Salesforce CRM and SharePoint Excel data, eliminating data silos and improving accessibility.</li>
+    <li>Developed Alteryx workflows to integrate Salesforce and SharePoint data, eliminating data silos and improving accessibility.</li>
     <li>Designed Power BI dashboards visualizing sales performance, replacing Excel reports thereby reducing reporting time from hours to minutes.</li>
   </ul>
 </div>  
