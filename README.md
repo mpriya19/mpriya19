@@ -118,7 +118,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 
 ## 📬 Connect With Me  
 
-📩 **Email**: priyamedankar19@gmail.com  
+<img src="https://img.icons8.com/color/24/gmail-new.png" width="20" /> **Email**: priyamedankar19@gmail.com  
 📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
 
 <span style="display: inline-flex; align-items: center; gap: 4px;">
