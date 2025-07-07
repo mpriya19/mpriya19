@@ -81,9 +81,9 @@ Passionate about delivering valuable insights, I enjoy working with **ETL/ELT pi
   <strong>Data Engineer</strong>
   <span> | November 2019 - October 2021</span>
   <ul>
-    <li>Designed ETL pipelines using AWS Glue and DMS to modernize legacy infrastructure into S3 data lake for a global CPG company.</li>
+    <li>Developed ETL pipelines using AWS Glue and DMS to modernize legacy infrastructure into S3 data lake for a global CPG company.</li>
     <li>Automated data validation with AWS Lambda to ensure high-quality datasets for analytics and BI reporting across 20 regions.</li>
-    <li>Built Tableau dashboards by integrating with Redshift and Athena, delivering actionable insights for inventory optimization.</li>
+    <li>Designed Tableau dashboards by integrating with Redshift and Athena, delivering actionable insights for inventory optimization.</li>
   </ul>
 </div>
 <br>    
@@ -96,8 +96,8 @@ Passionate about delivering valuable insights, I enjoy working with **ETL/ELT pi
   <strong>Data Analyst Intern</strong>
   <span> | April 2018 - July 2018</span>
   <ul>
-    <li>Developed Alteryx workflows to unify Salesforce CRM and SharePoint Excel data, streamlining data preparation and improving accessibility for sales insights.</li>
-    <li>Implemented Change Data Capture (CDC) mechanism, ensuring real-time data availability for optimizing promotional performance.</li>
+    <li>Developed Alteryx workflows to integrate Salesforce CRM and SharePoint Excel data, eliminating data silos and improving accessibility.</li>
+    <li>Designed Power BI dashboards visualizing sales performance, replacing Excel reports thereby reducing reporting time from hours to minutes.</li>
   </ul>
 </div>  
 
