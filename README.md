@@ -122,7 +122,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
 
 <div style="display: inline-flex; align-items: center; gap: 5px;">
-  <img src="https://img.icons8.com/color/24/gmail-new.png" width="20" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/color/24/gmail-new.png" width="10" style="vertical-align: middle;"/>
   <a href="mailto:priyamedankar19@gmail.com" style="position: relative; top: -8px;">priyamedankar19@gmail.com</a>
 </div>
 <br>
