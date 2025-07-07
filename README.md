@@ -8,7 +8,7 @@
 
 ## 🙋🏻‍♀️ About Me
 
-I specialize in **data engineering, analytics and business intelligence solutions** to transform messy data into meaningful stories.
+I specialize in **data engineering, analytics and business intelligence solutions** to transform messy data into meaningful stories.  
 Passionate about delivering valuable insights, I enjoy working with **ETL/ELT pipelines, data warehousing and BI tools**, turning chaos into clarity, one dataset at a time.  
 
 🔍 Currently exploring full-time opportunities in data engineering and analytics, where I can apply my skills to build solutions that drive business impact.
