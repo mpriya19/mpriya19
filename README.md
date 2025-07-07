@@ -16,7 +16,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 🏢 **Previously Worked at**: Accenture, Evergreen (Insight Global), Zensar Technologies    
 🧩 **Key Skills**: SQL, Python, AWS, Snowflake, Tableau, Power BI  
 🎯 **Interests**: Data Engineering & Analytics, Business Intelligence  
-💡 **Outside Work**: I love exploring new places and cultures through travel, and experimenting with flavors in the kitchen.  
+💡 **Outside Professional Pursuits**: I love exploring new places and cultures through travel, and experimenting with flavors in the kitchen.  
 
 ---
 
