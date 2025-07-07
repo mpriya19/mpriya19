@@ -121,8 +121,7 @@ Passionate about delivering meaningful insights, I enjoy working with **ETL/ELT 
 📩 **Email**: priyamedankar19@gmail.com  
 📌 **LinkedIn**: [linkedin.com/in/mepriya](https://linkedin.com/in/mepriya)  
 
----
-
+##  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mpriya19&color=007ACC&style=flat-square&label=Profile+Views" alt="Profile views counter"/>
 </div>
