@@ -83,7 +83,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Data Engineer</strong>
   <span> | November 2019 - October 2021</span>
   <ul>
-    <li>Developed ETL pipelines using AWS Glue and DMS to modernize legacy infrastructure into S3 data lake for a global CPG company.</li>
+    <li>Developed ETL pipelines to migrate on-premise data to AWS cloud for a global CPG company, significantly saving infrastructure costs.</li>
     <li>Automated data validation with AWS Lambda to ensure high-quality datasets for analytics and BI reporting across 20 regions.</li>
     <li>Designed Tableau dashboards by integrating with Redshift and Athena, delivering actionable insights for inventory optimization.</li>
   </ul>
