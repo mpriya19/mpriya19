@@ -98,8 +98,8 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Data Analyst Intern</strong>
   <span> | April 2018 - July 2018</span>
   <ul>
-    <li>Developed Alteryx workflows to integrate Salesforce and SharePoint data, eliminating data silos and improving accessibility.</li>
-    <li>Designed Power BI dashboards visualizing sales metrics, replacing Excel reports and reducing reporting time from hours to minutes.</li>
+    <li>Empowered five non-profit organizations by automating reporting processes using Alteryx, saving 20 hours/month and improving data accuracy by 95%.</li>
+    <li>Spearheaded data-driven transformation for 600+ student records, creating templates that streamlined documentation and enabled self-service analytics for charity staff.</li>
   </ul>
 </div>  
 
