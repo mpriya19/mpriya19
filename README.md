@@ -98,8 +98,8 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Data Analyst Intern</strong>
   <span> | April 2018 - July 2018</span>
   <ul>
-    <li>Empowered five non-profit organizations by automating reporting processes using Alteryx, saving 20 hours/month and improving data accuracy by 95%.</li>
-    <li>Spearheaded data-driven transformation for 600+ student records, creating templates that streamlined documentation and enabled self-service analytics for charity staff.</li>
+    <li>Automated reporting processes for for 5 non-profit organizations using Alteryx, saving 20 hours/month and improving data accuracy by 95%.</li>
+    <li>Spearheaded data-driven transformation for 600+ student records, streamlining documentation and enabled self-service analytics.</li>
   </ul>
 </div>  
 
