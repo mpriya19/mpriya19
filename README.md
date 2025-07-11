@@ -8,8 +8,8 @@
 
 ## 🙋🏻‍♀️ About Me
 
-I specialize in **data engineering, analytics and business intelligence** to transform messy data into meaningful stories.  
-Passionate about delivering impactful insights, I enjoy working with **ETL/ELT pipelines, cloud-based solutions, data warehousing and BI tools**, turning chaos into clarity, one dataset at a time.  
+I specialize in **data engineering & analytics, cloud-based solutions and business intelligence** to transform messy data into meaningful stories.  
+Passionate about delivering impactful insights, I enjoy working with **ETL/ELT pipelines, data warehousing and BI tools**, turning chaos into clarity, one dataset at a time.  
 
 🔍 **Currently seeking full-time roles** where I can contribute to data-driven initiatives and grow with innovative teams.  
 🎓 **Graduated**: MS in Information Technology and Management @ **UT Dallas** (Class of 2025)  
