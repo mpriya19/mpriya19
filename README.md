@@ -99,7 +99,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <span> | April 2018 - July 2018</span>
   <ul>
     <li>Automated reporting processes using Alteryx, saving 20 hours/month and improving data accuracy by 95%.</li>
-    <li>Spearheaded data-driven transformation for 600+ student records, streamlining documentation and enabled self-service analytics.</li>
+    <li>Spearheaded data-driven transformation for 600+ student records, enabling self-service analytics for 5 non-profit organizations.</li>
   </ul>
 </div>  
 
