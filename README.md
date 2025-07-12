@@ -59,7 +59,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Data Engineer Intern</strong>
   <span> | January 2025 - April 2025</span>  
   <ul>
-    <li>Developed robust data pipelines and interactive dashboards, accelerating data preparation and real-time insights for retail operations to optimize data-driven decision-making across sales, marketing and supply-chain teams.</li>
+    <li>Developed robust data pipelines and interactive dashboards, accelerating data preparation and real-time insights for retail operations to optimize data-driven decision-making across marketing, sales, and supply-chain teams.</li>
     <li>Technologies used: Snowflake, Tableau, CI/CD, GitHub Actions</li>
   </ul>
 </div>
