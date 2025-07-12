@@ -73,8 +73,8 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Business Intelligence Analyst</strong>
   <span> | November 2021 - July 2022</span><br>
   <ul>
-    <li>Facilitated Teradata-to-Snowflake migration and developed KPIs for largest U.S. telecom company, enabling cost-efficient cloud-native analytics and enhancing enterprise-wide executive reporting for 115K+ users.</li>
-    <li>Technologies used: Snowflake, SQL, Dimensional Modeling</li>
+    <li>Collaborated with business stakeholders to facilitate Teradata-to-Snowflake migration and developed KPIs for largest U.S. telecom company, enabling cost-efficient cloud-native analytics and enhancing enterprise-wide executive reporting for 115K+ users.</li>
+    <li>Technologies used: Snowflake, SQL, Dimensional Modeling, Requirements Gathering</li>
   </ul>
 </div>
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
