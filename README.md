@@ -60,7 +60,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <span> | January 2025 - April 2025</span>  
   <ul>
     <li>Built scalable data pipelines and real-time dashboards, accelerating insights and reducing reporting time across retail operations.</li>
-    <li>**Technologies used:** Snowflake, Tableau, CI/CD, GitHub Actions</li>
+    <li>Technologies used: Snowflake, Tableau, CI/CD, GitHub Actions</li>
   </ul>
 </div>
 <br>
