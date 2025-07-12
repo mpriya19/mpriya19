@@ -73,18 +73,16 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Business Intelligence Analyst</strong>
   <span> | November 2021 - July 2022</span><br>
   <ul>
-    <li>Facilitated migration of Teradata workloads to Snowflake for largest U.S. telecom provider, enabling cost-efficient analytics.</li>
-    <li>Engineered complex SQL queries to develop KPIs, ensuring continuity in enterprise reporting across business units.</li>
-    <li>Implemented dimensional data modeling, enhancing dashboard performance for executive decision-making.</li>
+    <li>Facilitated Teradata-to-Snowflake migration and developed KPIs for largest U.S. telecom company, enabling cost-efficient analytics and enterprise-wide executive reporting.</li>
+    <li>Technologies used: Snowflake, SQL, Dimensional Modeling</li>
   </ul>
 </div>
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
   <strong>Data Engineer</strong>
   <span> | November 2019 - October 2021</span>
   <ul>
-    <li>Developed ETL pipelines to migrate on-premise data to AWS for a global CPG company, significantly saving infrastructure costs.</li>
-    <li>Automated data validation with AWS Lambda to ensure high-quality datasets for analytics and BI reporting across 20 regions.</li>
-    <li>Designed Tableau dashboards by integrating with Redshift and Athena, delivering actionable insights for inventory optimization.</li>
+    <li>Built AWS-based ETL pipelines and automated data validation to support global BI reporting, driving cost savings and inventory optimization for a multinational CPG firm.</li>
+    <li>Technologies used: AWS - S3, DMS, Glue, Lambda, Redshift, Athena, Tableau</li>
   </ul>
 </div>
 <br>    
