@@ -23,7 +23,6 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 ## 🛠️ My Tech Stack  
 
 **Languages & Databases**    
-
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
