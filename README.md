@@ -59,7 +59,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Data Engineer Intern</strong>
   <span> | January 2025 - April 2025</span>  
   <ul>
-    <li>Developed robust data pipelines and interactive dashboards, accelerating data preparation and real-time insights for retail operations to optimize data-driven decision-making across merchandising, inventory, and customer engagement teams.</li>
+    <li>Developed robust data pipelines and interactive dashboards, accelerating data preparation and real-time insights for retail operations to optimize data-driven decision-making across sales, marketing and supply-chain teams.</li>
     <li>Technologies used: Snowflake, Tableau, CI/CD, GitHub Actions</li>
   </ul>
 </div>
@@ -73,7 +73,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Business Intelligence Analyst</strong>
   <span> | November 2021 - July 2022</span><br>
   <ul>
-    <li>Facilitated Teradata-to-Snowflake migration and developed KPIs for largest U.S. telecom company, enabling cost-efficient analytics and enterprise-wide executive reporting.</li>
+    <li>Facilitated Teradata-to-Snowflake migration and developed KPIs for largest U.S. telecom company, enabling cost-efficient cloud-native analytics and enhancing enterprise-wide executive reporting for 115K+ users.</li>
     <li>Technologies used: Snowflake, SQL, Dimensional Modeling</li>
   </ul>
 </div>
