@@ -58,11 +58,8 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 <div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
   <strong>Data Engineer Intern</strong>
   <span> | January 2025 - April 2025</span>
-  <ul>
-    <li>Developed a data pipeline integrating AWS S3 and Snowflake, enabling efficient data processing to support retail sales analytics.</li>
-    <li>Designed Tableau dashboards delivering near real-time insights with sub-2s query latency, enabling faster data-driven decisions.</li>
-    <li>Automated CI/CD workflows with GitHub Actions, improving deployment efficiency and enabling faster delivery of data to BI teams.</li>
-  </ul>
+  Built scalable data pipelines and real-time dashboards, accelerating insights and reducing reporting time across retail operations.
+  Technologies used: Snowflake, Tableau, CI/CD, GitHub Actions
 </div>
 <br>
 
