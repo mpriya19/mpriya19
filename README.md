@@ -59,7 +59,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Data Engineer Intern</strong>
   <span> | January 2025 - April 2025</span>  
   <ul>
-    <li>Developed robust data pipelines and interactive dashboards, accelerating data preparation and real-time insights for retail operations to optimize data-driven decision-making across marketing, sales, and supply-chain teams.</li>
+    <li>Developed scalable data pipelines and interactive dashboards, accelerating data preparation and real-time insights for retail operations to optimize data-driven decision-making across marketing, sales, and supply-chain teams.</li>
     <li>Technologies used: Snowflake, Tableau, CI/CD, GitHub Actions</li>
   </ul>
 </div>
@@ -81,8 +81,8 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Data Engineer</strong>
   <span> | November 2019 - October 2021</span>
   <ul>
-    <li>Engineered AWS-based ETL pipelines and automated data validation to support global BI reporting, driving cost savings and inventory optimization for a multinational CPG firm.</li>
-    <li>Technologies used: AWS (S3, DMS, Glue, Lambda, Redshift, Athena), Tableau</li>
+    <li>Engineered robust ETL pipelines to migrate on-premise data to AWS cloud, automated data validation and enabled self-service analytics to support global BI reporting, driving cost savings and operational efficiency for a multinational CPG firm.</li>
+    <li>Technologies used: AWS - S3, DMS (Data Migration Service), Glue, Lambda, Redshift, Athena; Tableau</li>
   </ul>
 </div>
 <br>    
