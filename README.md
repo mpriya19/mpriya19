@@ -82,7 +82,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <span> | November 2019 - October 2021</span>
   <ul>
     <li>Built AWS-based ETL pipelines and automated data validation to support global BI reporting, driving cost savings and inventory optimization for a multinational CPG firm.</li>
-    <li>Technologies used: AWS - S3, DMS, Glue, Lambda, Redshift, Athena, Tableau</li>
+    <li>Technologies used: AWS (S3, DMS, Glue, Lambda, Redshift, Athena), Tableau</li>
   </ul>
 </div>
 <br>    
