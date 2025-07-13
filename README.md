@@ -100,8 +100,8 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
   <strong>Data Analyst Intern</strong>
   <span> | April 2018 - July 2018</span>
   <ul>
-    <li>Automated manual reporting processes using Alteryx, saving 20 hours/month and improving data accuracy by 95%.</li>
-    <li>Spearheaded data-driven transformation of 600+ student records, enabling self-service analytics for 5 non-profit organizations.</li>
+    <li>Integrated data from ERP systems and Excel spreadsheets using Alteryx, and developed Power BI dashboards to support real-time operational insights, driving data-informed decisions for a global automotive manufacturing client.</li>
+    <li>Technologies used: Oracle DB, Excel, SQL Server, Alteryx Designer, Power BI, SharePoint</li>
   </ul>
 </div>  
 
