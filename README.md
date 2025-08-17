@@ -104,8 +104,9 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
     <li>Technologies used: Oracle DB, Excel, SQL Server, Alteryx Designer, Power BI, SharePoint</li>
   </ul>
 </div>  
--->
+
 ---
+-->
 
 ## 🏆 Achievements  
 
