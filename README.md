@@ -54,7 +54,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
-
+<!--
 ## 💼 Work Experience
 <div style="display: flex; justify-content: space-between;">
   <strong>💻 Evergreen - Insight Global</strong>
@@ -104,7 +104,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
     <li>Technologies used: Oracle DB, Excel, SQL Server, Alteryx Designer, Power BI, SharePoint</li>
   </ul>
 </div>  
-
+-->
 ---
 
 ## 🏆 Achievements  
