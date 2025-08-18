@@ -54,59 +54,6 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
-<!--
-## 💼 Work Experience
-<div style="display: flex; justify-content: space-between;">
-  <strong>💻 Evergreen - Insight Global</strong>
-  <span> | Dallas, TX, United States</span><br>  
-</div>
-<div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
-  <strong>Data Engineer Intern</strong>
-  <span> | January 2025 - April 2025</span>  
-  <ul>
-    <li>Developed scalable data pipelines and interactive dashboards, accelerating data preparation and real-time insights for retail operations to optimize data-driven decision-making across marketing, sales, and supply-chain teams.</li>
-    <li>Technologies used: Snowflake, Tableau, CI/CD, GitHub Actions</li>
-  </ul>
-</div>
-<br>
-
-<div style="display: flex; justify-content: space-between;">
-  <strong>💻 Accenture</strong>
-  <span> | Pune, MH, India</span>
-</div>
-<div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
-  <strong>Business Intelligence Analyst</strong>
-  <span> | November 2021 - July 2022</span><br>
-  <ul>
-    <li>Collaborated with business stakeholders to facilitate Teradata-to-Snowflake migration and developed KPIs for largest U.S. telecom company, enabling cost-efficient cloud-native analytics and enhancing enterprise-wide executive reporting for 115K+ users.</li>
-    <li>Technologies used: SQL, Snowflake, Dimensional Modeling, Requirements Gathering</li>
-  </ul>
-</div>
-<div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
-  <strong>Data Engineer</strong>
-  <span> | November 2019 - October 2021</span>
-  <ul>
-    <li>Engineered robust ETL pipelines to migrate on-premise data to AWS cloud and enabled self-service analytics to support global BI reporting, driving cost savings and operational efficiency for a multinational CPG firm.</li>
-    <li>Technologies used: AWS - S3, DMS, Glue, Lambda, Redshift, Athena; Tableau, Agile Methodology</li>
-  </ul>
-</div>
-<br>    
-
-<div style="display: flex; justify-content: space-between;">
-  <strong>💻 Zensar Technologies</strong>
-  <span> | Pune, MH, India</span><br>  
-</div>
-<div style="display: flex; justify-content: space-between; padding-left: 1.2em;">
-  <strong>Data Analyst Intern</strong>
-  <span> | April 2018 - July 2018</span>
-  <ul>
-    <li>Integrated data from ERP systems and Excel spreadsheets using Alteryx, and developed Power BI dashboards to support real-time operational insights, driving data-informed decisions for a global automotive manufacturing client.</li>
-    <li>Technologies used: Oracle DB, Excel, SQL Server, Alteryx Designer, Power BI, SharePoint</li>
-  </ul>
-</div>  
-
----
--->
 
 ## 🏆 Achievements  
 
