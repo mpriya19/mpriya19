@@ -13,7 +13,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 
 🔍 **Currently seeking full-time roles** where I can contribute to data-driven initiatives and grow with innovative teams.  
 🎓 **Graduated**: MS in Information Technology and Management @ **UT Dallas** (Class of 2025)  
-🏢 **Previously Worked at**: Accenture, Evergreen (Insight Global), Zensar Technologies    
+🏢 **Previously Worked at**: Accenture, Insight Global, Zensar Technologies    
 🧩 **Key Skills**: SQL, Python, AWS, Snowflake, Tableau, Power BI  
 🎯 **Interests**: Data Analytics & Engineering, Business Intelligence  
 💡 **Beyond Professional Pursuits**: I love exploring new places and cultures through travel, and experimenting with flavors in the kitchen.  
