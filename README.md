@@ -32,10 +32,11 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)  
 
+
 **Data Analytics/Engineering & BI Tools**    
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0053A0?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-FF6D00?style=for-the-badge&logo=talend&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-E36209?style=for-the-badge&logo=databricks&logoColor=white)
