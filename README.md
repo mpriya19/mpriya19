@@ -24,13 +24,6 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 
 **Languages & Databases**    
 
-![SQL](https://img.shields.io/badge/-?style=flat-square&logo=microsoftsqlserver "SQL / Microsoft SQL Server")
-![Python](https://img.shields.io/badge/-?style=flat-square&logo=python "Python")
-![PostgreSQL](https://img.shields.io/badge/-?style=flat-square&logo=postgresql "PostgreSQL")
-![MySQL](https://img.shields.io/badge/-?style=flat-square&logo=mysql "MySQL")
-![Snowflake](https://img.shields.io/badge/-?style=flat-square&logo=snowflake "Snowflake")
-![Amazon Redshift](https://img.shields.io/badge/-?style=flat-square&logo=amazon-redshift "Amazon Redshift")
-
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
