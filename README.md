@@ -14,7 +14,7 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 🔍 **Currently seeking full-time roles** where I can contribute to data-driven initiatives and grow with innovative teams.  
 🎓 **Graduated**: MS in Information Technology and Management @ **UT Dallas** (Class of 2025)  
 🏢 **Previously Worked at**: Accenture, Insight Global, Zensar Technologies    
-🧩 **Key Skills**: SQL, Python, AWS, Snowflake, Tableau, Power BI  
+🧩 **Key Skills**: SQL, Azure, Snowflake, Power BI, Python  
 🎯 **Interests**: Data Analytics & Engineering, Business Intelligence  
 💡 **Beyond Professional Pursuits**: I love exploring new places and cultures through travel, and experimenting with flavors in the kitchen.  
 
@@ -35,13 +35,13 @@ Passionate about delivering impactful insights, I enjoy working with **ETL/ELT p
 
 **Data Analytics/Engineering & BI Tools**    
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E36209?style=for-the-badge&logo=databricks&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0053A0?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-FF6D00?style=for-the-badge&logo=talend&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E36209?style=for-the-badge&logo=databricks&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
